@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp4 (ziya)", "WinFormsApp4 (ziya)\WinFormsApp4 (ziya).csproj", "{0B8E1B2A-9497-423B-9560-5AFEFB80B4D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B8E1B2A-9497-423B-9560-5AFEFB80B4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8E1B2A-9497-423B-9560-5AFEFB80B4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8E1B2A-9497-423B-9560-5AFEFB80B4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8E1B2A-9497-423B-9560-5AFEFB80B4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4FE6DC5-4C3B-452A-BB5F-9A94A52BF8F9}
+	EndGlobalSection
+EndGlobal
